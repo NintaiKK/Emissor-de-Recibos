@@ -1,5 +1,6 @@
 # Gerador de Recibos Automático
 Python 3.8+
+
 License GNU GPLv3
 
 Aplicativo desktop para geração automática de recibos profissionais em formato Word (.docx), desenvolvido para simplificar o processo de emissão de documentos financeiros.
@@ -17,7 +18,9 @@ Geração de documentos prontos para impressão ou envio digital
 
 ## Funcionalidades
 ✔ Modelos pré-configurados com dados de prestadores
+
 ✔ Cadastro de novos prestadores (opção "Outro")
+
 ✔ Cálculos automáticos:
 
 Valor do serviço
